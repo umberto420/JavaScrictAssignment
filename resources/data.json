@@ -1,0 +1,9 @@
+[
+    { "settled": true, "value": 10 },
+    { "settled": true, "value": 10 },
+    { "settled": true, "value": -1 },
+    { "settled": false, "value": 4 },
+    { "settled": true },
+    { "settled": false, "value": 40 },
+    { "settled": false, "value": 2 }
+  ]
